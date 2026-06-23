@@ -1,4 +1,4 @@
-# ai-skills
+# 🤖 ai-skills
 
 Personal collection of Opencode skills used in my workflows.
 
